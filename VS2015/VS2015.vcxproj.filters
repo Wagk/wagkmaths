@@ -68,6 +68,9 @@
     <ClInclude Include="integration.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="fft_dft.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <None Include="matrix.inl">
