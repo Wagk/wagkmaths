@@ -68,7 +68,7 @@
     <ClInclude Include="integration.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="fft_dft.h">
+    <ClInclude Include="fft.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
