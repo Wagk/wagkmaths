@@ -23,6 +23,23 @@ namespace Sig //signals processing
   template<typename T>
   Signal<T> fft(const Signal<T>& rhs);
 
+  template<typename T>
+  Signal<T> dft(const Signal<T>& rhs)
+  {
+  	
+  }
+
+  template<typename T>
+  Signal<T> inv_dft(const Signal<T>& rhs)
+  {
+
+  }
+
+  template<typename T>
+  Signal<T> fft(const Signal<T>& rhs)
+  {
+
+  }
 
 } //
 
